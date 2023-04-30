@@ -1,0 +1,9 @@
+POST http://localhost:4000/app/signup
+Content-Type: application/json
+
+{
+    "fullName":"Swaranika",
+    "email":"khasnisaditi@gmail.com",
+    "address":"kodichinhalli ",
+    "Phone":9036056185
+}
