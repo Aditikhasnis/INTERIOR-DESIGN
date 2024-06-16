@@ -65,7 +65,7 @@ After selecting the package you will be directed to the  contact me page ,These 
 
 ## Mongodb
 
-- Login into your  username and password in Mongodb Atlas.
+- Login with your  username and password in Mongodb Atlas.
 - Click on new project
 - Create a new cluster
 - run the cluster
